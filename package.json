@@ -1,0 +1,27 @@
+{
+  "name": "react-learning",
+  "version": "1.0.0",
+  "description": "React learning by Aditya Bhardwaj",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaBhardwaj03/react-learning.git"
+  },
+  "keywords": [
+    "Aditya",
+    "react",
+    "future"
+  ],
+  "author": "Aditya Bhardwaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdityaBhardwaj03/react-learning/issues"
+  },
+  "homepage": "https://github.com/AdityaBhardwaj03/react-learning#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
